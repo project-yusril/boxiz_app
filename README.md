@@ -1,6 +1,6 @@
 # boxiz_app
 
-A new Flutter project.
+Boxiz App Design By Yusril Eka Mahendra
 
 ## Getting Started
 
