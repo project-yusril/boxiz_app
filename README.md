@@ -2,6 +2,9 @@
 
 Boxiz App Design By Yusril Eka Mahendra
 
+![boxiz](https://user-images.githubusercontent.com/65325397/134838127-e2641fcb-c3ad-4cac-8f9e-c20878f37597.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
